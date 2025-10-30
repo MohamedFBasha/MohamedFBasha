@@ -4,7 +4,15 @@
 
 <br clear="both">
 
-<p align="left">My name is Mohamed Fathy, and I'm a Machine Learning and Artificial Intelligence Developer from Egypt.<br>I specialize in Computer Vision, Natural Language Processing (NLP), and Data-Driven Modeling.<br>My work focuses on building intelligent systems that can understand, analyze, and interact with the world — from vision-based applications to advanced language understanding.<br>I’m passionate about exploring cutting-edge AI techniques and pushing the boundaries of what machines can learn. 🤖<br><br>🔗 📄 Visit my CV<br><br>🌐 💼 Visit my Portfolio</p>
+<p align="left">
+  My name is <b>Mohamed Fathy</b>, and I'm a <b>Machine Learning and Artificial Intelligence Developer</b> from <b>Egypt</b>.<br>
+  I specialize in <b>Computer Vision</b>, <b>Natural Language Processing (NLP)</b>, and <b>Data-Driven Modeling</b>.<br>
+  My work focuses on building intelligent systems that can understand, analyze, and interact with the world — from vision-based applications to advanced language understanding.<br>
+  I’m passionate about exploring cutting-edge AI techniques and pushing the boundaries of what machines can learn. 🤖
+  <br><br>
+  🔗 <b>📄 <a href="YOUR_CV_LINK_HERE" target="_blank">Visit my CV</a></b><br><br>
+  🌐 <b>💼 <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank">Visit my Portfolio</a></b>
+</p>
 
 ###
 
@@ -12,7 +20,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since my first AI project<br>📚 Currently learning Deep Learning & Computer Vision<br>🎯 Goal: Build smart, real-world AI solutions<br>🎲 Fun fact: My models learn faster than I do (sometimes) 😅</p>
+<p align="left">
+  ✨ Creating bugs since my first AI project<br>
+  📚 Currently learning Deep Learning & Computer Vision<br>
+  🎯 Goal: Build smart, real-world AI solutions<br>
+  🎲 Fun fact: My models learn faster than I do (sometimes) 😅
+</p>
 
 ###
 
