@@ -10,7 +10,7 @@
   My work focuses on building intelligent systems that can understand, analyze, and interact with the world — from vision-based applications to advanced language understanding.<br>
   I’m passionate about exploring cutting-edge AI techniques and pushing the boundaries of what machines can learn. 🤖
   <br><br>
-  🔗 <b>📄 <a href="YOUR_CV_LINK_HERE" target="_blank">Visit my CV</a></b><br><br>
+  🔗 <b>📄 <a href="https://drive.google.com/file/d/1UGcc9o4j5xjSe4ZS-FQmBapl2VA1cKlK/view?usp=drive_link" target="_blank">Visit my CV</a></b><br><br>
   🌐 <b>💼 <a href="YOUR_PORTFOLIO_LINK_HERE" target="_blank">Visit my Portfolio</a></b>
 </p>
 
