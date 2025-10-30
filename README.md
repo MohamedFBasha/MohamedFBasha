@@ -1,4 +1,6 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi there 👋, I'm Mohamed Fathy</h1>
+<p align="left">Machine Learning & AI Developer passionate about building intelligent systems 🤖</p>
+
 
 ###
 
