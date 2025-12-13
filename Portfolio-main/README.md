@@ -1,4 +1,4 @@
-# Ibrahim Hendawi - Portfolio Website
+  # Mohamed Fathy Basha - Portfolio Website
 
 A modern, responsive portfolio website showcasing Ibrahim Hendawi's skills, projects, and experience in Data Science, Machine Learning, and Artificial Intelligence.
 
@@ -184,22 +184,6 @@ Then visit `http://localhost:8000` in your browser.
 - [ ] Animation performance improvements
 - [ ] Progressive Web App (PWA) features
 
-## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
 
-## 🤝 Contributing
 
-Feel free to fork this project and adapt it for your own portfolio. If you make improvements, consider sharing them!
-
-## 📧 Contact
-
-**Ibrahim Hendawi**
-- Email: ibrahimhen846@gmail.com
-- LinkedIn: [ibrahim-hendawi](https://www.linkedin.com/in/ibrahim-hendawi-7a5655217/)
-- GitHub: [ihendawi](https://github.com/ihendawi)
-- Location: Kafr El Sheikh, Egypt
-
----
-
-*Built with ❤️ Ibrahim Hendawi*
