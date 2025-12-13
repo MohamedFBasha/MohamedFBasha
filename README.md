@@ -13,7 +13,7 @@
   I’m passionate about exploring cutting-edge AI techniques and pushing the boundaries of what machines can learn. 🤖
   <br><br>
   🔗 <b>📄 <a href="https://drive.google.com/file/d/1UGcc9o4j5xjSe4ZS-FQmBapl2VA1cKlK/view?usp=drive_link" target="_blank">Visit my CV</a></b><br><br>
-  🌐 <b>💼 <a href="https://github.com/MohamedFBasha/MohamedFBasha/blob/main/Portfolio-main/index.html" target="_blank">Visit my Portfolio</a></b>
+  🌐 <b>💼 <a href="https://mohamedfbasha.github.io/MohamedFBasha/" target="_blank">Visit my Portfolio</a></b>
 </p>
 
 ###
